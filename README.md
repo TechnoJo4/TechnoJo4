@@ -1,8 +1,8 @@
-## Hi, I'm Jonas!
+## Hi, I'm Kademlia!
 
 I play CTFs and enjoy programming language design and implementation.
 
-You can read my CTF writeups [on my website](https://merkletr.ee/ctf).
+Check out [my blog](https://merkletr.ee/) or [microblog](https://bsky.app/profile/did:plc:ezhjhbzqt32bqprrn6qjlkri).
 
 I currently study Computer Science at [USherbrooke](https://www.usherbrooke.ca/) and volunteer as VP Compétitions of [JDIS](https://jdis.ca/).
 
